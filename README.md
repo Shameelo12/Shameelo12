@@ -31,7 +31,7 @@ Contributed to an EdTech Next.js platform with AI-powered learning tools.
 
 ### Contact
 
-[LinkedIn](LINK) · [Email](mailto:YOUR_EMAIL)
+[LinkedIn](https://www.linkedin.com/in/shameel-khandokar/) · [Email](mailto:khandokar.shameel@gmail.com)
 
 <!---
 Shameelo12/Shameelo12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
