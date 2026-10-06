@@ -4,15 +4,15 @@ I'm a Computer Science and Mathematics student at Baruch College (Macaulay Honor
 
 ### Projects
 
-**[ResourceNYC](LINK)** · 1st place, HunterHacks
+**[ResourceNYC](https://github.com/AJUNNYC/resourcenyc)** · 1st place, HunterHacks
 A multilingual web app that matches New Yorkers to NYC assistance programs based on a plain-language description of their situation. Built with a team.
 `Next.js` `Supabase` `Claude API` `Vercel`
 
-**[Paper Trading App](LINK)**
+**[Paper Trading App](https://github.com/Shameelo12/Stocks-Papertrading)**
 A full-stack simulated trading platform with live market data and user authentication.
 `Java 17` `Spring Boot` `PostgreSQL` `React` `Vite` `MUI` `Finnhub API` `JWT`
 
-**[Urban Longevity](LINK)** · CUNY Civic Tech Hackathon
+**[Urban Longevity](https://github.com/Shameelo12/CUNY-TECH-Hackathon)** · CUNY Civic Tech Hackathon
 A data dashboard built during the CUNY Civic Tech Hackathon.
 
 ### Research
